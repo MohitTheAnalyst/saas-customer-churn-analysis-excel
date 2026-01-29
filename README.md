@@ -47,7 +47,7 @@ Time to Churn (days): Duration between signup and churn date
 
 Plan Status: Active vs Not Active (churned)
 
-📌 ![Churn Sheet](churn_sheet.png)
+📌 ![Churn Sheet](churn sheet.png)
 
 ## 📊 Analysis Performed
 
@@ -61,7 +61,7 @@ Average new user arrival by plan
 
 Minimum and maximum churn duration by plan
 
-📌 ![Churn Pivot](churn_pivot.png)
+📌 ![Churn Pivot](churn pivot.png)
 
 ## 📈 Dashboard
 
@@ -75,7 +75,7 @@ Average new user arrival time
 
 Churn duration patterns
 
-📌 ![Churn Dashboard](churn_dashboard.png)
+📌 ![Churn Dashboard](churn dashboard.png)
 
 
 ## 🔑 Key Insights
