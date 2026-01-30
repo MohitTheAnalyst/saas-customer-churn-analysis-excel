@@ -103,3 +103,8 @@ Focus retention strategies on high-revenue Enterprise users
 ## 🛠 Tools Used
 
 Microsoft Excel (Data Cleaning, Analysis, Dashboarding)
+
+## 📂 Excel Analysis
+Explore the full Excel workbook (data cleaning, calculations, pivot tables, and dashboard) here:  
+excel/README.md
+
