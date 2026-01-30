@@ -12,4 +12,4 @@ Workbook structure:
 - Dashboard
 ### 📂 Excel Analysis
 Explore the full Excel workbook (data cleaning, calculations, pivot tables, and dashboard) here:  
-[Download Excel Workbook](excel/SaaS_Churn_Analysis_Excel.xlsx)
+[Download Excel Workbook](SaaS_Churn_Analysis_Excel.xlsx)
